@@ -1,4 +1,4 @@
-=# Wine Quality Classification Project
+# Wine Quality Classification Project
 
 A machine learning project that uses neural networks to classify wines as red or white based on their physicochemical properties.
 
