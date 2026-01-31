@@ -105,7 +105,7 @@ The notebook follows these steps:
 
 5. **Training**
    - Trains for 3 epochs with batch size of 1
-   - Achieves ~95% accuracy
+   - Achieves ~99% accuracy
 
 6. **Prediction**
    - Makes predictions on test data
