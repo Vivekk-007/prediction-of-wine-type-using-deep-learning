@@ -170,8 +170,8 @@ This project uses publicly available data from the UCI Machine Learning Reposito
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/Vivekk-007/prediction-of-wine-type-using-deep-learning)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/vivek-kumar-63587a384/)
+- GitHub: [@Vivekk-007](https://github.com/Vivekk-007/prediction-of-wine-type-using-deep-learning)
+- LinkedIn: [vivek](https://www.linkedin.com/in/vivek-kumar-63587a384/)
 
 ## Contributing
 
