@@ -167,6 +167,11 @@ Dataset: [UCI Machine Learning Repository - Wine Quality Dataset](http://archive
 ## License
 
 This project uses publicly available data from the UCI Machine Learning Repository. Please refer to the original dataset's license and citation requirements.
+## 👤 Author
+
+Your Name
+- GitHub: [@yourusername](https://github.com/Vivekk-007/prediction-of-wine-type-using-deep-learning)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/vivek-kumar-63587a384/)
 
 ## Contributing
 
@@ -174,7 +179,7 @@ Feel free to fork this project and submit pull requests with improvements or ope
 
 ## Contact
 
-For questions or feedback about this project, please open an issue in the repository.
+For questions or feedback about this project, please open an issue in the repository. gmail - kumarvivek05093896@gmail.com
 
 ---
 
